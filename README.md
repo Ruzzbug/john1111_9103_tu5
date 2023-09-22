@@ -5,5 +5,5 @@ Another one
 
 # WOW! IMAGE
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.avif "San Juan Mountains")
 **SAN JUAN MOUNTAINS**
